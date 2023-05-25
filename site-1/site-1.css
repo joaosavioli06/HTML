@@ -1,0 +1,58 @@
+@font-face {
+    font-family: Roboto-Light;
+    src: url (fonte/Roboto-Light);
+    }
+
+
+body{ 
+background-color:black;
+        color: white;
+font-size: 19px;
+font-family: 'Roboto', monospace;
+}
+
+#conteudo{
+font-size: 17px;
+max-width: 65%;
+margin: auto;
+margin-top: 3%;
+text-align: justify;
+}
+
+.titulo{
+ font-size: 25px;
+ background-color: white;
+ color: black;
+ text-align: center;
+ padding: 1%;
+ }
+ 
+
+nav{
+font-size: 19px;
+background-color:#111111;
+margin-top: -2%;
+text-align:center;
+padding: 1%;
+}
+
+nav ul li {
+display: inline-block;
+margin: 1%
+}
+
+#fotos{
+background-color: red;
+max-width: 60%;
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+   }
+
+nav ul li a{color:white; text-decoration: none;}
+nav ul li a:hover{color: red; font-size: 18px; text-shadow: 1px 1px 10px white ;}
+
+
+footer{background-color: white; color: black; text-align: center; padding-bottom: 1%;}
