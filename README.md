@@ -1,8 +1,6 @@
 # HTML
 
 
-#First HTML Websites My first HTML websites
-
 In this repository are located my first two websites made in HTML (in one of them I used a little CSS).
 
 Site 1 - I made this website in HTML and CSS in august 2022. At that time I was learning HTML and a little CSS, but I didn't go ahead with the course, because I didn't identify myself with the website creation aspect. The website is extremely simple, it was a little project to practice the new knowledge along with the course I was doing at the time.
